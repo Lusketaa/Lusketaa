@@ -17,6 +17,5 @@
     <img align="center" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Lucca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- 
 
-
+Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro!
