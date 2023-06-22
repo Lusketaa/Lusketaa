@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia! <img src="https://komarev.com/ghpvc/?username=Lusketaa&color=yellow" alt="Profile views" align="right"/>
+## 👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!
 
 <div> 
 	<a href="https://api.whatsapp.com/send?phone=5551998774490" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
