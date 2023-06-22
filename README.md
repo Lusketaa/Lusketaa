@@ -25,3 +25,5 @@
 </div>
 
 <br><h3>Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro!</h3><br>
+
+![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
