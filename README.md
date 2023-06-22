@@ -9,10 +9,11 @@
     	<a href ="mailto:Luccafrietto1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
 </div>
 
+<br><br>
+![Lusketaa GitHub stats](https://github-readme-stats.vercel.app/api?username=Lusketaa&show_icons=true&theme=ayu-mirage&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=ayu-mirage)
+<br><br>
 
-<br>![Lusketaa GitHub stats](https://github-readme-stats.vercel.app/api?username=Lusketaa&show_icons=true&theme=dracula&count_private=true)</br>
-
- 
 ## 🛠️ Tecnologias que utilizo no meu dia.
 
 <div style="display: inline_block"><br>
