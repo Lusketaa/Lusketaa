@@ -24,6 +24,6 @@
  	<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<br><h3>Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro!</h3><br>
+<h3>Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro!</h3>
 
 ![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
