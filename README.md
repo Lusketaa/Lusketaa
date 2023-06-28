@@ -18,11 +18,6 @@
   </a>
 </div>
 
-<div align="center"> 
-	<a height="397px" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
-	<img height="390px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
-</div>
-
 <h3 align="center">🛠️ Tecnologias que utilizo no meu dia.</h3> 
 
 <div align="center">
@@ -34,5 +29,10 @@
 </div>
 
 <h3 align="center">Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro. Além disso, tive a experiência de ser formado como Aspirante-a-Oficial R/2 pelo Exército Brasileiro, a qual proporcionou-me uma diferente visão de mundo e da vida em geral.</h3>
+
+<div align="center"> 
+	<a height="397px" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
+	<img height="390px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
+</div>
 
 ![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
