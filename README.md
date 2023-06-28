@@ -11,6 +11,13 @@
 
 <br>
 
+<div align="center">
+  <a href="https://github.com/Lusketaa">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 <div align="center"> 
 	<a height="397px" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
 	<img height="390px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
