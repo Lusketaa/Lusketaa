@@ -2,7 +2,7 @@
 
 <div align="center"> 
 	<a href="https://api.whatsapp.com/send?phone=5551998774490" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
-	<a href="https://open.spotify.com/playlist/7qy40wjU7mAHWEsB1mESbM" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" align="center"></a>
+	<a href="https://open.spotify.com/user/12158219220" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" align="center"></a>
 	<a href="https://www.linkedin.com/in/lucca-frietto-b578a4168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 	<a href ="mailto:Luccafrietto1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" align="center"></a>
 	<a href="https://broadleaf-yam-b37.notion.site/Template-De-Organiza-o-3e4bc5c27bd34283894a302bcb8660c1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank" align="center"></a>
@@ -11,8 +11,10 @@
 
 <br>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" align="center" width="330px" alt="roadmap.sh"/></a>
-<img src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif" align="center" height="428px">
+<div align="center"> 
+	<a height="397px" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
+	<img height="390px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
+</div>
 
 <h3 align="center">🛠️ Tecnologias que utilizo no meu dia.</h3> 
 
