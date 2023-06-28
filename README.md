@@ -1,5 +1,7 @@
 <h2 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!</h2> 
 
+<br>
+
 <div align="center"> 
 	<a href="https://api.whatsapp.com/send?phone=5551998774490" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
 	<a href="https://open.spotify.com/user/12158219220" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" align="center"></a>
@@ -8,6 +10,8 @@
 	<a href="https://broadleaf-yam-b37.notion.site/Template-De-Organiza-o-3e4bc5c27bd34283894a302bcb8660c1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank" align="center"></a>
 	<a href="https://youtu.be/JdqL89ZZwFw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" align="center"></a> 
 </div>
+
+<br>
 
 <br>
 
