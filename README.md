@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Tecnologias que utilizo no meu dia.</h2> 
+<h2 align="center">🛠️ Tecnologias que utilizo no meu dia-a-dia</h2> 
 
 <br>
 
