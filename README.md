@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!</h2> 
+<h1 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!</h1> 
 
 <br>
 
@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<h3 align="center">🛠️ Tecnologias que utilizo no meu dia.</h3> 
+<h2 align="center">🛠️ Tecnologias que utilizo no meu dia.</h2> 
 
 <div align="center">
 	<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
