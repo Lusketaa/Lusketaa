@@ -1,4 +1,4 @@
-<h3 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!</h3> 
+<h2 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!</h2> 
 
 <div align="center"> 
 	<a href="https://api.whatsapp.com/send?phone=5551998774490" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Lusketaa">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -30,9 +30,11 @@
 
 <h3 align="center">Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro. Além disso, tive a experiência de ser formado como Aspirante-a-Oficial R/2 pelo Exército Brasileiro, a qual proporcionou-me uma diferente visão de mundo e da vida em geral.</h3>
 
+<br>
+
 <div align="center"> 
-	<a height="440px" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
-	<img height="393px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
+	<a href="https://roadmap.sh"><img height="500px" src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
+	<img height="500px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
 </div>
 
 ![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
