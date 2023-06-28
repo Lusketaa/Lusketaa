@@ -47,4 +47,8 @@
 	<img height="450px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
 </div>
 
+<br>
+
 ![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
+
+<br>
