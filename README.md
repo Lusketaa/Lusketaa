@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!</h1> 
+<h1 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação!</h1> 
 
 <br>
 
