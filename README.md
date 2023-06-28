@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/Lusketaa">
-    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -43,8 +43,8 @@
 <br>
 
 <div align="center"> 
-	<a href="https://roadmap.sh"><img height="450px" src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
-	<img height="450px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
+	<a href="https://roadmap.sh"><img height="455px" src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
+	<img height="455px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
 </div>
 
 <br>
