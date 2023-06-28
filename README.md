@@ -28,11 +28,11 @@
  	<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<h3 align="center">Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro. Além disso, tive a experiência de ser formado como Aspirante-a-Oficial R/2 pelo Exército Brasileiro, a qual proporcionou-me uma diferente visão de mundo e da vida em geral.</h3>
+<h3>Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro. Além disso, tive a experiência de ser formado como Aspirante-a-Oficial R/2 pelo Exército Brasileiro, a qual proporcionou-me uma diferente visão de mundo e da vida em geral.</h3>
 
 <div align="center"> 
-	<a height="397px" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
-	<img height="390px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
+	<a height="440px" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" alt="roadmap.sh"/></a>
+	<img height="393px" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif">
 </div>
 
 ![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
