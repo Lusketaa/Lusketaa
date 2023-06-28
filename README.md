@@ -1,6 +1,6 @@
-## 👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!
+<h3 align="center">👋 Olá! Eu sou o Lucca Frietto, Estudante de programação e tecnologia!</h3> 
 
-<div> 
+<div align="center"> 
 	<a href="https://api.whatsapp.com/send?phone=5551998774490" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
 	<a href="https://open.spotify.com/playlist/7qy40wjU7mAHWEsB1mESbM" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" align="center"></a>
 	<a href="https://www.linkedin.com/in/lucca-frietto-b578a4168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
@@ -11,12 +11,12 @@
 
 <br>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" width="330px" alt="roadmap.sh"/></a>
-<img src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif" height="428px">
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649bb074d99c9d67319be408?variant=dark" align="center" width="330px" alt="roadmap.sh"/></a>
+<img src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif" align="center" height="428px">
 
-## 🛠️ Tecnologias que utilizo no meu dia.
+<h3 align="center">🛠️ Tecnologias que utilizo no meu dia.</h3> 
 
-<div>
+<div align="center">
 	<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -24,6 +24,6 @@
  	<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<h3>Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro!</h3>
+<h3 align="center">Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro. Além disso, tive a experiência de ser formado como Aspirante-a-Oficial R/2 pelo Exército Brasileiro, a qual proporcionou-me uma diferente visão de mundo e da vida em geral.</h3>
 
 ![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
