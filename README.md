@@ -22,6 +22,8 @@
   </a>
 </div>
 
+<br>
+
 <h2 align="center">🛠️ Tecnologias que utilizo no meu dia.</h2> 
 
 <br>
@@ -33,6 +35,8 @@
 	<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  	<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+<br>
 
 <h3 align="center">Acadêmico de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, inovação, empreendedorismo e mercado financeiro. Além disso, tive a experiência de ser formado como Aspirante-a-Oficial R/2 pelo Exército Brasileiro, a qual proporcionou-me uma diferente visão de mundo e da vida em geral.</h3>
 
