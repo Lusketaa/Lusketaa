@@ -47,7 +47,3 @@
 </div>
 
 <br>
-
-![snake gif](https://github.com/Lusketaa/Lusketaa/blob/output/github-contribution-grid-snake.svg)
-
-<br>
