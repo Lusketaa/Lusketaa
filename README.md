@@ -2,16 +2,12 @@
 
 ## 👋🏻 Olá, meu nome é <strong>Lucca Frietto!</strong>
 
-<h3> Sou um apaixonado por programação e tecnologia!</h3>
-<br>
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-<br>
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela <a href="https://www.univates.br/">UNIVATES</a>.
-<br>
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.univates.br/">UNIVATES</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos de Front-End e Cybersegurança!
-<br>
-- 💼 Buscando oportunidade de estágio!<br>
+- 💼 Buscando oportunidade de **Estágio**!
 
+<br>
 <br>
 <br>
 
@@ -50,8 +46,8 @@
 
 <div align="center">
   <a href="https://github.com/Lusketaa">
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
