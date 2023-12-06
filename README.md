@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,sass,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sass,ts" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## 📖 O que estou aprendendo:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,jest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,dotnet,jest" />
   </a>
 </p>
 
