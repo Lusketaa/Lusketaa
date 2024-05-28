@@ -1,14 +1,11 @@
 ## 👋🏻 Olá, meu nome é <strong>Lucca Frietto!</strong>
 <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="Gif de gato" max-width="400px" max-width="400px" width="400px" align="right" padding="40px">
 
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.univates.br/">UNIVATES</a>.
-- 👨‍💻 Aperfeiçoando meus conhecimentos de FrontEnd e BackEnd!
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software. <br><br>
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.univates.br/">UNIVATES</a>. <br><br>
+- 👨‍💻 Aperfeiçoando meus conhecimentos de FrontEnd e BackEnd! <br><br>
 - 💼 Buscando oportunidade de **Estágio**!
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
