@@ -3,7 +3,7 @@
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.univates.br/">UNIVATES</a>.
-- 👨‍💻 Aperfeiçoando meus conhecimentos de Front-End e Cybersegurança!
+- 👨‍💻 Aperfeiçoando meus conhecimentos de FrontEnd e BackEnd!
 - 💼 Buscando oportunidade de **Estágio**!
 
 <br>
