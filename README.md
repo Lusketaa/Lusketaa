@@ -43,12 +43,8 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/Lusketaa">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Lusketaa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusketaa&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lusketaa&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lusketaa&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <br>
 
